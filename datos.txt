@@ -1,4 +1,7 @@
 DATOS DEL EQUIPO
 ALFA:
 BETA:
+Nombre: Lara Frias
+IP:192.168.100.1
+Hora: 13:21
 GAMMA:
