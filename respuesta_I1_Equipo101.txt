@@ -2,4 +2,6 @@ Agustina Gonzalez Oviedo
 a- Si, ALFA puede ver los datos que los demas cargaron. Para verlos en Git Bash tienen que usar el comando git pull origin main
 b- Si, en la pagina web de GitHub lo pueden ver. Pero para verlo de forma y editarlo en sus computadores se ejecuta git pull
 Lara Frias
+c- Si, lo pueden ver en GitHub
+D- Nosotros nos comunicamos a través de Whastsapp y el servidor de Discord
 Juan Castro
