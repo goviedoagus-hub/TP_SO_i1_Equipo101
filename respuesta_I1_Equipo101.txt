@@ -5,3 +5,4 @@ Lara Frias
 c- Si, lo pueden ver en GitHub
 D- Nosotros nos comunicamos a través de Whastsapp y el servidor de Discord
 Juan Castro
+e- La mejor forma de comunicarse dentro de GitHub es mediante Issues, ya que permiten dejar mensajes, hacer preguntas y organizar las tareas del equipo en un mismo lugar. También se pueden utilizar los comentarios y menciones (@usuario) para avisar directamente a un integrante.
