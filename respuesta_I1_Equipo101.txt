@@ -1,8 +1,27 @@
-Agustina Gonzalez Oviedo
-a- Si, ALFA puede ver los datos que los demas cargaron. Para verlos en Git Bash tienen que usar el comando git pull origin main
-b- Si, en la pagina web de GitHub lo pueden ver. Pero para verlo de forma y editarlo en sus computadores se ejecuta git pull
-Lara Frias
-c- Si, lo pueden ver en GitHub
-D- Nosotros nos comunicamos a través de Whastsapp y el servidor de Discord
-Juan Castro
-e- La mejor forma de comunicarse dentro de GitHub es mediante Issues, ya que permiten dejar mensajes, hacer preguntas y organizar las tareas del equipo en un mismo lugar. También se pueden utilizar los comentarios y menciones (@usuario) para avisar directamente a un integrante.
+=========================================================
+TRABAJO PRACTICO OBLIGATORIO: INTERACCIÓN 1 (EQUIPO 101)
+=========================================================
+
+INTEGRANTES:
+- Agustina Gonzalez Oviedo
+- Lara Frias
+- Juan Castro
+
+------------------------------
+RESPUESTAS AL CUESTIONARIO
+------------------------------
+
+a- ¿ALFA ve los datos que cargaron los demás en su repositorio?
+R- Si, ALFA puede ver los datos que los demas cargaron. Para verlos en Git Bash tienen que usar el comando git pull origin main
+
+b- ¿Si ALFA agrega un archivo los demás integrantes lo ven?
+R- Si, en la pagina web de GitHub lo pueden ver. Pero para verlo de forma y editarlo en sus computadores se ejecuta git pull
+
+c- ¿Si BETA agrega un archivo los demás integrantes lo ven?
+R- Si, lo pueden ver en GitHub
+
+d- ¿De qué forma se comunicaron ustedes?
+R- Nosotros nos comunicamos a través de Whastsapp y el servidor de Discord
+
+e- ¿Cuál es la mejor forma de comunicarse entre ustedes dentro del github?
+R- La mejor forma de comunicarse dentro de GitHub es mediante Issues, ya que permiten dejar mensajes, hacer preguntas y organizar las tareas del equipo en un mismo lugar. También se pueden utilizar los comentarios y menciones (@usuario) para avisar directamente a un integrante.
